@@ -35,6 +35,8 @@ This project requires R (RStudio environment) and the following R libraries inst
 8. Do permit rechecks (renewals or ongoing monitoring) vary significantly across states, and what does this indicate about state-level firearm monitoring systems?
 9. Do states with high handgun background checks also have high firearm-related incidents (crime/suicide)?
 
+## Key Findings:  
+1. 
 
 ## Limitations:
 * The FBI’s National Instant Criminal Background Check System (NICS) counts initiated background checks, not the number of firearms sold. Therefore, a one-to-one correlation cannot be assumed. 
