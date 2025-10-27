@@ -1,4 +1,5 @@
 # FBI NICS Firearm Background Check Data Analysis
+This repository contains the final project for **STAT 650** **(Advanced R for Datascience)**, completed as part of my Master’s program in Statistics. The project demonstrates the application of data cleaning, visualization, modeling, and inference techniques using R. It involves an end-to-end statistical workflow — from exploratory data analysis (EDA) to extracting meaningful insights from real-world data.
 
 ## Basic Background about NICS System
 NICS (National Instant Criminal Background Check System) is the system through which people undergo checks before acquiring a firearm. NICS is a national database maintained by the FBI. NICS checks are point-of-sale background checks that happen each time a firearm is purchased. NICS searches criminal and mental health history and other records to determine if the person is legally prohibited from owning a firearm.
