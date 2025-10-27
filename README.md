@@ -5,10 +5,20 @@ This repository contains the final project for **STAT 650** **(Advanced R for Da
 NICS (National Instant Criminal Background Check System) is the system through which people undergo checks before acquiring a firearm. NICS is a national database maintained by the FBI. NICS checks are point-of-sale background checks that happen each time a firearm is purchased. NICS searches criminal and mental health history and other records to determine if the person is legally prohibited from owning a firearm.
 
 ## Libraries Used:
-`tidyverse`  
-`dplyr`  
-`ggplot2`  
-`readr` 
+
+This project requires R (RStudio environment) and the following R libraries installed:
+
+
+1. `tidyverse`  
+2. `dplyr`  
+3. `ggplot2`  
+4. `readxl`  
+5. `RColorBrewer`  
+6. `lubridate`  
+7. `forcats`  
+8. `readr`  
+9. `scales`  
+10. `corrplot`
 
 ## Data Description:
 The dataset covers the time period from **January 2017 to December 2021**, providing monthly background check data for each U.S. state and firearm category.
