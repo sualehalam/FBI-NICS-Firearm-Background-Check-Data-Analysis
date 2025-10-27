@@ -22,3 +22,6 @@ Each column represents the type of transaction submitted to the National Instant
 
 ## Limitations:
 The FBI’s National Instant Criminal Background Check System (NICS) counts initiated background checks, not the number of firearms sold. Therefore, a one-to-one correlation cannot be assumed. 
+
+## Authors
+* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
