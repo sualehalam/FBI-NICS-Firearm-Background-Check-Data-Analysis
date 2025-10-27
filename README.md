@@ -18,3 +18,7 @@ Each column represents the type of transaction submitted to the National Instant
 7. Is the “Other” firearms category growing, and what might this suggest about trends in niche/tactical firearms?
 8. Do permit rechecks (renewals or ongoing monitoring) vary significantly across states, and what does this indicate about state-level firearm monitoring systems?
 9. Do states with high handgun background checks also have high firearm-related incidents (crime/suicide)?
+
+
+## Limitations:
+The FBI’s National Instant Criminal Background Check System (NICS) counts initiated background checks, not the number of firearms sold. Therefore, a one-to-one correlation cannot be assumed. 
